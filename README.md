@@ -2,7 +2,7 @@
 This repository contains my projects completed during the Data Analysis and Data Science Bootcamp
 
 ## Excel Projects
--Jumia Dataset
+-Jumia Dataset <BR>
 -Sales Operations & Analytics
 
 ## Power BI Projects
