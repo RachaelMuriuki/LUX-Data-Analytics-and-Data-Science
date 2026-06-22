@@ -9,11 +9,11 @@ This repository contains data analysis projects built using Excel and PowerBI. T
 - Hospital Pharmacy
 
 ## Tools Used
-- Excel
+- Excel 
 - Power BI
 
 ## Highlights
-- Data cleaning and transformation
-- Exploratory data analysis
-- Dashboard design and reporting
-- Business insights and performance tracking
+- Cleaned and transformed raw datasets for analysis
+- Performed exploratory analysis to identify trends and patterns
+- Built interactive dashboards for reporting and decision-making
+- Extracted insights to support business performance evaluation
