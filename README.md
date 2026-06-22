@@ -1,12 +1,19 @@
-# Data Analysis and Data Science Projects
-This repository contains my projects completed during the Data Analysis and Data Science Bootcamp
+# Data Analysis Projects
+This repository contains data analysis projects built using Excel and PowerBI. The projects focus on data cleaning and visualization
 
 ## Excel Projects
 -Jumia Dataset <BR>
 -Sales Operations & Analytics
 
-## Power BI Projects
+## Power BI Project
 -Hospital Pharmacy
 
 ## Tools Used
-Excel, Power BI
+-Excel
+-Power BI
+
+## Highlights
+Data cleaning and transformation
+Exploratory data analysis
+Dashboard design and reporting
+Business insights and performance tracking
