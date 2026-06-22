@@ -2,7 +2,7 @@
 This repository contains data analysis projects built using Excel and PowerBI. The projects focus on data cleaning and visualization
 
 ## Excel Projects
--Jumia Dataset <BR>
+-Jumia Dataset
 -Sales Operations & Analytics
 
 ## Power BI Project
@@ -13,7 +13,7 @@ This repository contains data analysis projects built using Excel and PowerBI. T
 -Power BI
 
 ## Highlights
-Data cleaning and transformation
-Exploratory data analysis
-Dashboard design and reporting
-Business insights and performance tracking
+-Data cleaning and transformation
+-Exploratory data analysis
+-Dashboard design and reporting
+-Business insights and performance tracking
